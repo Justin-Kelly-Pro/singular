@@ -1,10 +1,10 @@
 # Singular
 The modified php source code
 <br><br><br><br>
-<h3>Directory Llisting</h3>
+<h5>Directory Llisting</h5>
 <hr><br>
-<a href="#how-to-use"> How To Use </a>
-<a href="#docs"> Documentation </a>
+<a href="#how-to-use"> How To Use </a><br><br>
+<a href="#docs"> Documentation </a><br>
 
 
 # How To Use
