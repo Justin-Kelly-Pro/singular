@@ -1,7 +1,7 @@
 # Singular
 The modified php source code
 <br><br><br><br>
-<h5>Directory Llisting</h5>
+<h5>Directory Listing</h5>
 <hr><br>
 <a href="#how-to-use"> How To Use </a><br><br>
 <a href="#docs"> Documentation </a><br>
