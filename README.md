@@ -5,7 +5,7 @@ The modified php source code
 <hr><br>
 <a href="#how-to-use"> How To Use </a><br><br>
 <a href="#docs"> Documentation </a><br>
-
+<br><br><br><br><br><br><br><br>
 
 # How To Use
 To use singular it's so easy. you should install the files and go to work your files
